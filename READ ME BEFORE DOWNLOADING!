@@ -1,0 +1,18 @@
+# Disk-Stress-Test-DST-
+Purpose: Used to see how reliable your disk is!
+
+Warnings/Notes:
+
+1) Your disk might slow down a little bit during the test
+2) Delete the three ".txt" files that will be created, this will a, save your disk space and b, make the program efficient!
+3) We are not responsible if any problems occur from tampering the program or files created by it
+4) The source code provided does not put any important code such as how the disk stress tests, it is importing via a circular import, this is done to prevent this program from being copied and distributed as own.
+
+
+Instructions: 
+
+1) You can download the .rowexetemplate to replace any faulty items in your code, NOTE: if your program does have any faulty programs it will automatically tell you about it!
+2) We are not responsible if any problems occur from tampering the files (.rowexetemplate)
+
+
+Downloading any of the program(s) means you have accepted and read the above terms and conditions
