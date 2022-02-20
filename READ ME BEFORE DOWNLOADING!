@@ -20,6 +20,7 @@ Format: [Working on]: [Current Status]
 1) Creating serviceable parts so that if the program breaks, you don't need to redownload! [Almost done, update may appear today]
 2) Adding more exeption handling [Amost done, update may appear today]
 3) Creating files which will help you to be on the latest update without needing to redownload the whole .exe file with the update [Researching]
+4) Adding safety features [Done, waiting to be released]
 
 
 Downloading any of the program(s) means you have accepted and read the above terms and conditions
