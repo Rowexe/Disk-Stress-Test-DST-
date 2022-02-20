@@ -11,8 +11,15 @@ Warnings/Notes:
 
 Instructions: 
 
-1) You can download the .rowexetemplate to replace any faulty items in your code, NOTE: if your program does have any faulty programs it will automatically tell you about it!
-2) We are not responsible if any problems occur from tampering the files (.rowexetemplate)
+1) Run .exe file, all the contents should be in the same folder in order for it to work properly
+
+Currently Working on:
+
+Format: [Working on]: [Current Status]
+
+1) Creating serviceable parts so that if the program breaks, you don't need to redownload! [Almost done, update may appear today]
+2) Adding more exeption handling [Amost done, update may appear today]
+3) Creating files which will help you to be on the latest update without needing to redownload the whole .exe file with the update [Researching]
 
 
 Downloading any of the program(s) means you have accepted and read the above terms and conditions
